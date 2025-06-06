@@ -12,7 +12,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 
 -->
 
-# Preparation
+# Welcome
 
 <script input="button">
 alert("Disclaimer: Please note that you are leaving the CAU net once you open this presentation in your browser. This presentation includes links to other third party websites and services. These sites are not under our control. RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies. Please read third party privacy and security policies closely.")
@@ -20,7 +20,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="40%" width="40%"></center>
+<center><img src="./images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
@@ -31,7 +31,8 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 >
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
-> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
+> This work is licenced under CCBY
+> ![ccby](./images/ccby.png) (https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
 
