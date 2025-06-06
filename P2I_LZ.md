@@ -22,7 +22,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="./images/2022-03-03_Icon_Lehre.jpg" alt="image" height="40%" width="40%"></center>
+<center><img src="./images/img_fdm-zyklus_2022_CM.jpg" alt="image" height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
@@ -43,6 +43,12 @@ Linda Zollitsch
 central research data management
 
 Kiel University
+
+<div style="width: 50%; float:right">
+![services](./images/cau-services.png)
+</div>
+
+website: https://www.fdm.uni-kiel.de/de
 
 
 
