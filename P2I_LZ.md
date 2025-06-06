@@ -66,10 +66,13 @@ Tool used: Limesurvey
 
 ### P2I questionnaire
 
+{{0-1}}
+********************************************************************************
+
 P2I decided on a training with a **dialogical approach**
 
 Therefore, the Four-Tier test also follows this idea
-
+********************************************************************************
 
 {{1-2}}
 ********************************************************************************
@@ -78,13 +81,13 @@ style="
   display: block;
   background-color: #fee1ff;" -->
 ``` ascii
-+---------+   +--------------+   +----------+
-|         |   |              |   |          |
-| Pretest +-->| Intervention +-->| Posttest |
-|         |   |              |   |          |
-+---------+   +--------------+   +----------+ 
-                    |
-                    V
+           +---------+   +--------------+   +----------+
+           |         |   |              |   |          |
+           | Pretest +-->| Intervention +-->| Posttest |
+           |         |   |              |   |          |
+           +---------+   +--------------+   +----------+ 
+                                |
+                                V
 .-------------+---------------------------------------------------------.
 | Increase in the number of chosen scientifically well-founded answers  |
 '-----------------------------------------------------------------------'
@@ -184,8 +187,6 @@ The four-tier testdesign allows to check the underlying concepts behind the answ
 
 - difficult to collect
 
-- drop out rate is high 
-
 - to have a complete answered item, all four tiers have to be answered to
 
 
@@ -197,44 +198,13 @@ The four-tier testdesign allows to check the underlying concepts behind the answ
 
 ### Threats
 
-<!--
-style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 500px;
-  fill: blue;
-  stroke: blue;" -->
+- drop out rate is high 
 
+- questionnaire will not be answered in total, too much missing answers
 
 ## Improvement?
 
+- finding a way to shorten the items
 
-> **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
->
-> Verdecken Sie Ihre Kamera mit einem Post-it oder einem Finger.
->
-> Ich lese Aussagen vor.
->
-> Bei jeder Aussage, der Sie zustimmen können, zeigen Sie sich bitte wieder und winken kurz in die Kamera.
->
-> That's it !
 
-{{1-2}}
-********************************************************************************
 
-><p style="color:#9a047f">Ich trinke morgens gerne Kaffee.</p>
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich bin hauptsächlich in der Lehre tätig.</p>
-
-********************************************************************************
-
-{{3-4}}
-********************************************************************************
-
-><p style="color:#9a047f">Wenn ich mich entscheiden muss, ob ich ins Kino oder in ein Konzert gehe, entscheide ich mich wahrscheinlich für das Konzert.</p>
