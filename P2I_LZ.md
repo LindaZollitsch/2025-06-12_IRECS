@@ -27,16 +27,48 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TtL-FDM/main/TtL-FDM_Workshop.md#1)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/2025-06-12_IRECS/main/P2I_LZ.md#1)
 >
-> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
 > This work is licenced under CCBY
 > ![ccby](./images/ccby.png) (https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
 
-## Warm up
+## Introduction
+
+Linda Zollitsch
+
+central research data management
+
+Kiel University
+
+
+
+## Measurements and instruments
+
+P2I questionnaire
+
+    Target groups:
+
+    - secondary school students (Version S)
+
+- undergraduates (Version S)
+
+- graduates (Version M)
+
+- early career researchers (Version Y)
+
+
+Feedback sheets
+
+Limesurvey
+
+## SWOT analysis
+
+
+## Improvement?
+
 
 > **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
 >
@@ -66,95 +98,3 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 ********************************************************************************
 
 ><p style="color:#9a047f">Wenn ich mich entscheiden muss, ob ich ins Kino oder in ein Konzert gehe, entscheide ich mich wahrscheinlich für das Konzert.</p>
-
-********************************************************************************
-
-{{4-5}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich arbeite in einem naturwissenschaftlichen Bereich.</p>
-
-********************************************************************************
-
-{{5-6}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich arbeite in einem geisteswissenschaftlichen Bereich.</p>
-
-********************************************************************************
-
-{{6-7}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich kenne die FAIR-Prinzipien.</p>
-
-********************************************************************************
-
-{{7-8}}
-********************************************************************************
-
-><p style="color:#9a047f">In meinen Lehrveranstaltungen werden bereits FDM-Aspekte behandelt.</p>
-
-********************************************************************************
-
-{{8-9}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich habe ein Haustier.</p>
-
-********************************************************************************
-
-{{9-10}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich nutze OER und/oder offene Daten in meinen Lehrveranstaltungen.</p>
-
-********************************************************************************
-
-{{10-11}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich habe eine ORCID.</p>
-
-********************************************************************************
-
-{{11-12}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich habe schon hochschuldidaktische Veranstaltungen besucht.</p>
-
-********************************************************************************
-
-{{12-13}}
-********************************************************************************
-
-><p style="color:#9a047f">Ich arbeite im medizinischen Bereich.</p>
-
-********************************************************************************
-
-{{13-14}}
-********************************************************************************
-
-><p style="color:#9a047f">In meinen Lehrveranstaltungen wird programmiert.</p>
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-
-
-## Ziele dieses Workshops
-
-<img src="/images/targets.png" alt="Goals today" width="200" align="right">
-
-Wir möchten mit Ihnen erreichen, dass Sie am Ende des Workshops ...
-
-* ... erläutern können, welche Aspekte zum Themenkomplex FDM gehören.  
-* ... Grundbegriffe des FDM benennen und die Bedeutung von FDM für Forschungsprozesse und GWP erläutern können.
-* ... einen verantwortungsvollen Umgang mit Daten beschreiben.
-* ... die Grundprinzipien guter wissenschaftlicher Praxis erläutern.
-* ... Gründe für gute wissenschaftliche Praxis benennen.
-* ... auch ein bisschen Spaß hatten.
-
-<div style="page-break-after: always;"></div>
-
