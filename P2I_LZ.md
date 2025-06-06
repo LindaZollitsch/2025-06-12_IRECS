@@ -62,10 +62,28 @@ P2I questionnaire
 
 
 Feedback sheets
+    Target groups:
 
-Limesurvey
+    - secondary school students
+
+- undergraduates
+
+- graduates
+
+- early career researchers
+
+
+Tool used: Limesurvey
 
 ## SWOT analysis
+
+Strengths
+
+Weaknesses
+
+Opportunities
+
+
 
 
 ## Improvement?
