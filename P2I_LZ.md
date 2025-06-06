@@ -8,6 +8,8 @@ narrator: UK English Female
 
 icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
+link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
+
 comment:   presentation for IRECS-meeting 2025-06-12
 
 -->
@@ -20,7 +22,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 "Disclaimer"
 </script>
 
-<center><img src="./images/2022-03-03_Icon_Lehre.jpg" alt="people standing in front of " height="40%" width="40%"></center>
+<center><img src="./images/2022-03-03_Icon_Lehre.jpg" alt="image" height="40%" width="40%"></center>
 
 <div style="page-break-after: always;"></div>
 
@@ -28,7 +30,6 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 > following link/badge:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/2025-06-12_IRECS/main/P2I_LZ.md#1)
->
 >
 > This work is licenced under CCBY
 > ![ccby](./images/ccby.png) (https://creativecommons.org/licenses/by/4.0/)
