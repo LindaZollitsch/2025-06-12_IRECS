@@ -78,7 +78,6 @@ Therefore, the Four-Tier test also follows this idea
 ********************************************************************************
 <!--
 style="
-  display: block;
   background-color: #fee1ff;" -->
 ``` ascii
            +---------+   +--------------+   +----------+
@@ -99,7 +98,7 @@ style="
 ********************************************************************************
 <!--
 style="
-  display: block;
+  width: 60%;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
@@ -137,7 +136,7 @@ style="
 ********************************************************************************
 <!--
 style="
-  display: block;
+  width: 80%;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
