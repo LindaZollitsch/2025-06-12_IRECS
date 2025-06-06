@@ -61,29 +61,150 @@ P2I questionnaire
 - early career researchers (Version Y)
 
 
-Feedback sheets
-    Target groups:
-
-    - secondary school students
-
-- undergraduates
-
-- graduates
-
-- early career researchers
-
-
 Tool used: Limesurvey
+
+
+### P2I questionnaire
+
+P2I decided on a training with a **dialogical approach**
+
+Therefore, the Four-Tier test also follows this idea
+
+
+{{1-2}}
+********************************************************************************
+<!--
+style="
+  display: block;
+  background-color: #fee1ff;" -->
+``` ascii
++---------+   +--------------+   +----------+
+|         |   |              |   |          |
+| Pretest +-->| Intervention +-->| Posttest |
+|         |   |              |   |          |
++---------+   +--------------+   +----------+ 
+                    |
+                    V
+.-------------+---------------------------------------------------------.
+| Increase in the number of chosen scientifically well-founded answers  |
+'-----------------------------------------------------------------------'
+``` 
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+<!--
+style="
+  display: block;
+  background-color: #fee1ff;
+  stroke: #9a047f;" -->
+``` ascii
+           .-----------.
+           | Scenario  |
+           '-----------'
+                 |
+                 V
+   o----------------------------o
+   | Decision  for an action    |
+   |     1 out of 4 options     |
+   o----------------------------o
+                 |
+                 V
+  +------------------------------+
+  | Confidence with the decision |
+  +------------------------------+
+                 |
+                 V
+  o-------------------------------o
+  | Justification for the action  |
+  |        1 of 4 options         |
+  o-------------------------------o
+                 |
+                 V
++-----------------------------------+
+| Confidence with the justification |
++-----------------------------------+
+
+``` 
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+<!--
+style="
+  display: block;
+  background-color: #fee1ff;
+  stroke: #9a047f;" -->
+``` ascii
+  o----------------------------o   +----------+
+  | Decision  for an action    |-->|   WHAT   |
+  |     1 out of 4 options     |   +----------+
+  o----------------------------o   
+
+
+ o-------------------------------o   +--------+
+ | Justification for the action  |-->|   WHY  |
+ |        1 of 4 options         |   +--------+
+ o-------------------------------o   
+
+``` 
+********************************************************************************
 
 ## SWOT analysis
 
-Strengths
+- of the P2I questionnaire
 
-Weaknesses
+### Strengths
 
-Opportunities
+- collects of the content is understood
+
+- collects if the reasoning is understood
+
+- collects the confidence of the participants with their answer
 
 
+Pre-Post design allows comparison of groups
+
+The testdesign of multiple-choice questions allows fast / easy analysis
+
+The four-tier testdesign allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
+
+
+### Weaknesses
+
+- high reading competence needed (text based questionnaire)
+
+- long questionnaire, time consuming for participants
+
+-----
+
+- long, extensive development process, especially regarding the content of the scenarios as well as the distractors and the translation
+
+- difficult to collect
+
+- drop out rate is high 
+
+- to have a complete answered item, all four tiers have to be answered to
+
+
+### Opportunities
+
+- deeper insights into reasoning which helps to design training material to overcome the non-scientific patterns
+
+- if there is a lack of understanding in either content or reasoning, a training can foster in that direction
+
+### Threats
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  fill: blue;
+  stroke: blue;" -->
 
 
 ## Improvement?
