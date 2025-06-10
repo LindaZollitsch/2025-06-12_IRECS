@@ -144,7 +144,7 @@ style="
 
 ## SWOT analysis 🎯
 
-#### Strengths 💪
+#### **S**trengths 💪
 
 - collects if the content is understood
 
@@ -161,7 +161,7 @@ style="
 - the four-tier test design allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
 
 
-#### Weaknesses 🚧
+#### **W**eaknesses 🚧
 
 - high reading competence needed (text based questionnaire)
 
