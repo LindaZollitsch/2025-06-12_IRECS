@@ -196,6 +196,7 @@ style="
 ![ideas?](./images/img_tipp_2022_CM.jpg)
 </div>
 
+-----
 
 - finding a way to shorten the items
 
