@@ -24,7 +24,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 > following link/badge:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/2025-06-12_IRECS/main/P2I_LZ.md#1)
->
+
 This work is licenced under CCBY
 ![ccby](./images/ccby.png) (https://creativecommons.org/licenses/by/4.0/)
 
