@@ -33,7 +33,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 
 ## Measurements and instruments
 
-P2I questionnaire
+**P2I questionnaire**
 
     Target groups:
 
@@ -45,6 +45,7 @@ P2I questionnaire
 
 - early career researchers (Version Y)
 
+-----
 
 Tool used: Limesurvey
 
@@ -143,8 +144,6 @@ style="
 
 ## SWOT analysis
 
-- of the P2I questionnaire
-
 ### Strengths
 
 - collects if the content is understood
@@ -155,7 +154,7 @@ style="
 
 -----
 
-- pre-Post design allows comparison of groups
+- pre-post design allows comparison of groups
 
 - the test design of multiple-choice questions allows fast / easy analysis
 
@@ -193,10 +192,11 @@ style="
 
 ## Improvement?
 
-<!--
-style="
-  width: 60%;" -->
+
+<div style="width: 20%; float:right">
 ![ideas?](./images/img_tipp_2022_CM.jpg)
+</div>
+
 
 - finding a way to shorten the items
 
