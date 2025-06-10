@@ -67,7 +67,7 @@ Tool used: Limesurvey
 ********************************************************************************
 <!--
 style="
-  max-width: 400px;
+  max-width: 500px;
   background-color: #fee1ff;" -->
 ``` ascii
            +---------+   +--------------+   +----------+
@@ -88,7 +88,7 @@ style="
 ********************************************************************************
 <!--
 style="
-  max-width: 400px;
+  max-width: 500px;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
@@ -124,7 +124,7 @@ style="
 ********************************************************************************
 <!--
 style="
-  max-width: 400px;
+  max-width: 500px;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
