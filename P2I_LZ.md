@@ -142,9 +142,9 @@ style="
 ``` 
 ********************************************************************************
 
-## SWOT analysis
+## SWOT analysis 🎯
 
-#### Strengths
+#### Strengths 💪
 
 - collects if the content is understood
 
@@ -161,7 +161,7 @@ style="
 - the four-tier test design allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
 
 
-#### Weaknesses
+#### Weaknesses 🚧
 
 - high reading competence needed (text based questionnaire)
 
@@ -176,21 +176,21 @@ style="
 - to have a complete answered item, all four tiers have to be answered to
 
 
-#### Opportunities
+#### Opportunities 💡
 
 - deeper insights into reasoning which helps to design training material to overcome the non-scientific patterns
 
 - if there is a lack of understanding in either content or reasoning, a training can foster in that direction
 
 
-#### Threats
+#### Threats 🚨
 
 - drop out rate is high 
 
 - if questionnaire will not be answered in total, too much missing answers
 
 
-## Improvement?
+## Improvement? ✨
 
 
 <div style="width: 20%; float:right">
