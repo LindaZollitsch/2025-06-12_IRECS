@@ -87,7 +87,7 @@ style="
 ********************************************************************************
 <!--
 style="
-  width: 80%;
+  max-width: 315px;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
