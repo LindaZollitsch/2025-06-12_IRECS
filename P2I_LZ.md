@@ -36,20 +36,6 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 <div style="page-break-after: always;"></div>
 
-## Introduction
-
-Linda Zollitsch
-
-Central Research Datamanagement
-
-Kiel University
-
-<div style="width: 50%; float:right">
-![services](./images/cau-services.png)
-</div>
-
-
-
 
 ## Measurements and instruments
 
@@ -73,6 +59,8 @@ Tool used: Limesurvey
 
 {{0-1}}
 ********************************************************************************
+
+![P2I](./images/P2I_hp.png)
 
 P2I decided on a training with a **dialogical approach**
 
@@ -211,6 +199,9 @@ style="
 
 ## Improvement?
 
+<!--
+style="
+  width: 60%;" -->
 ![ideas?](./images/img_tipp_2022_CM.jpg)
 
 - finding a way to shorten the items
