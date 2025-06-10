@@ -33,7 +33,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 
 ## Measurements and instruments
 
-**P2I questionnaire**
+The **four-tier test** by using the example of the **P2I questionnaire**
 
     Target groups:
 
@@ -50,7 +50,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 Tool used: Limesurvey
 
 
-### P2I questionnaire
+### Four-tier test: P2I questionnaire
 
 {{0-1}}
 ********************************************************************************
@@ -59,7 +59,7 @@ Tool used: Limesurvey
 
 P2I decided on a training with a **dialogical approach**
 
-Therefore, the Four-Tier test (P2I questionnaire) also follows this idea
+Therefore, the four-tier test also follows this idea
 ********************************************************************************
 
 {{1-2}}
@@ -86,35 +86,32 @@ style="
 ********************************************************************************
 <!--
 style="
-  hight: 40%;
   background-color: #fee1ff;
   stroke: #9a047f;" -->
 ``` ascii
-           .-----------.
-           | Scenario  |
-           '-----------'
-                 |
-                 V
-   o----------------------------o
-   | Decision  for an action    |
-   |     1 out of 4 options     |
-   o----------------------------o
-                 |
-                 V
-  +------------------------------+
-  | Confidence with the decision |
-  +------------------------------+
-                 |
-                 V
-  o-------------------------------o
-  | Justification for the action  |
-  |        1 of 4 options         |
-  o-------------------------------o
-                 |
-                 V
-+-----------------------------------+
-| Confidence with the justification |
-+-----------------------------------+
+                  .-----------.
+                  | Scenario  |
+                  '-----------'
+                        |
+                        V
+   o---------------------------------------------o
+   | Decision  for an action: 1 out of 4 options |
+   o---------------------------------------------o
+                        |
+                        V
+        +------------------------------+
+        | Confidence with the decision |
+        +------------------------------+
+                        |
+                        V
+  o----------------------------------------------o
+  | Justification for the action: 1 of 4 options |
+  o----------------------------------------------o
+                        |
+                        V
+        +-----------------------------------+
+        | Confidence with the justification |
+        +-----------------------------------+
 
 ``` 
 
