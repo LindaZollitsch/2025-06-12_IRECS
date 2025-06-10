@@ -40,7 +40,7 @@ alert("Disclaimer: Please note that you are leaving the CAU net once you open th
 
 Linda Zollitsch
 
-central research data management
+Central Research Datamanagement
 
 Kiel University
 
@@ -48,7 +48,6 @@ Kiel University
 ![services](./images/cau-services.png)
 </div>
 
-website: https://www.fdm.uni-kiel.de/de
 
 
 
@@ -77,7 +76,7 @@ Tool used: Limesurvey
 
 P2I decided on a training with a **dialogical approach**
 
-Therefore, the Four-Tier test also follows this idea
+Therefore, the Four-Tier test (P2I questionnaire) also follows this idea
 ********************************************************************************
 
 {{1-2}}
@@ -166,18 +165,19 @@ style="
 
 ### Strengths
 
-- collects of the content is understood
+- collects if the content is understood
 
 - collects if the reasoning is understood
 
-- collects the confidence of the participants with their answer
+- collects the confidence of the participants with their answers
 
+-----
 
-Pre-Post design allows comparison of groups
+- pre-Post design allows comparison of groups
 
-The testdesign of multiple-choice questions allows fast / easy analysis
+- the test design of multiple-choice questions allows fast / easy analysis
 
-The four-tier testdesign allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
+- the four-tier test design allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
 
 
 ### Weaknesses
@@ -201,13 +201,17 @@ The four-tier testdesign allows to check the underlying concepts behind the answ
 
 - if there is a lack of understanding in either content or reasoning, a training can foster in that direction
 
+
 ### Threats
 
 - drop out rate is high 
 
-- questionnaire will not be answered in total, too much missing answers
+- if questionnaire will not be answered in total, too much missing answers
+
 
 ## Improvement?
+
+![ideas?](./images/img_tipp_2022_CM.jpg)
 
 - finding a way to shorten the items
 
