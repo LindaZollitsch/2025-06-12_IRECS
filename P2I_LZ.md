@@ -138,8 +138,8 @@ style="
 
 <!--
 style="
-  background-color:rgb(200, 191, 239);
-  stroke:rgb(29, 4, 154);" -->
+  background-color:rgb(204, 200, 204);
+  stroke:rgb(65, 53, 63);" -->
 ``` ascii
  o-------------------------------o   +--------+
  | Justification for the action  |-->|   WHY  |
