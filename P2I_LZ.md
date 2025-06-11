@@ -134,8 +134,13 @@ style="
   | Decision  for an action    |-->|   WHAT   |
   |     1 out of 4 options     |   +----------+
   o----------------------------o   
+``` 
 
-
+<!--
+style="
+  background-color:rgb(200, 191, 239);
+  stroke:rgb(29, 4, 154);" -->
+``` ascii
  o-------------------------------o   +--------+
  | Justification for the action  |-->|   WHY  |
  |        1 of 4 options         |   +--------+
