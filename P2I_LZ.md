@@ -57,11 +57,13 @@ Tool used: Limesurvey
 {{0-1}}
 ********************************************************************************
 
-![P2I](./images/P2I_hp.png)
-
 > P2I decided on a training with a **dialogical approach**
 >
 > Therefore, the four-tier test also follows this idea
+
+-----
+
+![P2I](./images/P2I_hp.png)
 
 ********************************************************************************
 
