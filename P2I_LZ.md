@@ -161,12 +161,15 @@ style="
 
 -----
 
+{{1}}
+********************************************************************************
 - pre-post design allows comparison of groups
 
 - the test design of multiple-choice questions allows fast / easy analysis
 
 - the four-tier test design allows to check the underlying concepts behind the answers due to the justifications and shows whether the choice was based on guesswork or stable beliefs
 
+********************************************************************************
 
 #### **W**eaknesses 🚧
 
@@ -176,11 +179,15 @@ style="
 
 -----
 
+{{1}}
+********************************************************************************
 - long, extensive development process, especially regarding the content of the scenarios as well as the distractors and the translation
 
 - difficult to collect
 
 - to have a complete answered item, all four tiers have to be answered to
+
+********************************************************************************
 
 
 #### Opportunities 💡
@@ -208,5 +215,7 @@ style="
 
 - finding a way to shorten the items
 
+- making it easy to answer / make it attractive
 
+- making it easier to develop and analyse
 
