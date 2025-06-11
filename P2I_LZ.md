@@ -35,6 +35,8 @@ This work is licenced under CCBY
 
 The **four-tier test** by using the example of the **P2I questionnaire**
 
+-----
+
     Target groups:
 
     - secondary school students (Version S)
