@@ -61,9 +61,6 @@ Tool used: Limesurvey
 >
 > Therefore, the four-tier test also follows this idea
 
------
-
-![P2I](./images/P2I_hp.png)
 ---
 
 <iframe width="560" height="315" src="https://www.umfragen.uni-kiel.de/612454?newtest=Y&amp;lang=en" title="P2I questionnaire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
