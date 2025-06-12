@@ -63,7 +63,7 @@ Tool used: Limesurvey
 
 ---
 
-<iframe width="560" height="315" src="https://www.umfragen.uni-kiel.de/612454?newtest=Y&amp;lang=en" title="P2I questionnaire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![questionnaire](https://www.umfragen.uni-kiel.de/612454?newtest=Y&amp;lang=en)
 
 ---
 
