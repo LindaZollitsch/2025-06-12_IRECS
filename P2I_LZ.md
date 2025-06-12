@@ -16,7 +16,7 @@ comment:   presentation for IRECS-meeting 2025-06-12
 
 # Start
 
-<center><img src="./images/img_fdm-zyklus_2022_CM.jpg" alt="image" height="40%" width="40%"></center>
+![P2I](./images/P2I_hp.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -64,6 +64,11 @@ Tool used: Limesurvey
 -----
 
 ![P2I](./images/P2I_hp.png)
+---
+
+<iframe width="560" height="315" src="https://www.umfragen.uni-kiel.de/612454?newtest=Y&amp;lang=en" title="P2I questionnaire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
 ********************************************************************************
 
